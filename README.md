@@ -210,7 +210,7 @@ footer {
 ```
 
 
-## OUTPUT:
+## OUTPUT:![alt text](image.png)
 
 
 ## RESULT:
